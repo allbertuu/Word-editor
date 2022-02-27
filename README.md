@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/allbertuu/word-editor?style=for-the-badge)
 
 > 📝 Um editor de texto elegante e responsivo, desenvolvido sob o conceito ***mobile-first***.
-🚀 [Acesse o site aqui!](https://allbertuu.github.io/word-editor/) 🚀  
+🚀 [Acesse o site aqui!](https://allbertuu.github.io/Word-editor/) 🚀  
 
 ## ⭐ Projeto
 ***Preview***  
