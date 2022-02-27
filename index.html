@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styles/style.css">
+    <link rel="shortcut icon" href="./assets/imgs/logo.svg" type="image/x-icon">
+    <title>The Best Word Editor</title>
+</head>
+
+<body class="bg-slate-50">
+    <main class="main">
+        <img class="logo" src="./assets/imgs/logo-expandido.svg" alt="Logo do site" />
+        <section class="principal">
+            <section class="campo">
+                <div class="area-campo">
+                    <textarea class="textarea" id="textarea" placeholder="Digite aqui..."></textarea>
+                    <div class="flex justify-around">
+                        <button id="clearTextarea" class="btn-campo">
+                            Nº de caracteres: <span id="howManyCaracters"></span>
+                        </button>
+                        <button id="removeFormat" class="btn-campo">
+                            Remover formatação
+                        </button>
+                    </div>
+                </div>
+            </section>
+            <section class="estilos">
+                <h1 class="h1">
+                    Estilos padrões
+                </h1>
+                <div class="area-botoes">
+                    <button type="button" class="btn btn-bold">
+                        Bold
+                    </button>
+                    <button type="button" class="btn btn-italic">
+                        Italic
+                    </button>
+                    <button type="button" class="btn btn-monospace">
+                        Monospace
+                    </button>
+                    <button type="button" class="btn btn-underline">
+                        Underline
+                    </button>
+                </div>
+            </section>
+        </section>
+    </main>
+
+    <script src="./assets/scripts/script.js"></script>
+</body>
+
+</html>
