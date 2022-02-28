@@ -10,7 +10,8 @@
 
 ## 💬 Sobre o projeto
 > Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos em JavaScript ES6, CSS3 e o framework TailwindCSS.  
-> Utilizei conceitos avançados de flexbox, grid, responsividade e manipulação do DOM (Document Object Model).
+>
+> Utilizei conceitos avançados de flexbox, grid, responsividade e manipulação do DOM (Document Object Model), mudando estilos através de classes dinamicamente através da interatividade com o usuário por meio da ativação de eventos.
 
 ## 💻 Tecnologias usadas
 - JavaScript ES6
