@@ -4,12 +4,13 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/allbertuu/word-editor?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/allbertuu/word-editor?style=for-the-badge)
 
-> 📝 Um editor de texto elegante e responsivo, desenvolvido sob o conceito ***mobile-first***.
+<img src="./screenshots/banner.png" alt="Imagem de vizualização do site">
+
 🚀 [Acesse o site aqui!](https://allbertuu.github.io/word-editor/) 🚀  
 
-## ⭐ Projeto
-***Preview***  
-<img src="./screenshots/banner.png" alt="Imagem de vizualização do site">
+## 💬 Sobre o projeto
+> Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos em JavaScript ES6, CSS3 e o framework TailwindCSS.
+> Utilizei conceitos avançados de flexbox, grid, responsividade e manipulação do DOM (Document Object Model).
 
 ## 💻 Tecnologias usadas
 - JavaScript ES6
