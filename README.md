@@ -9,7 +9,7 @@
 🚀 [Acesse o site aqui!](https://allbertuu.github.io/word-editor/) 🚀  
 
 ## 💬 Sobre o projeto
-> Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos em JavaScript ES6, CSS3 e o framework TailwindCSS.
+> Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos em JavaScript ES6, CSS3 e o framework TailwindCSS.  
 > Utilizei conceitos avançados de flexbox, grid, responsividade e manipulação do DOM (Document Object Model).
 
 ## 💻 Tecnologias usadas
