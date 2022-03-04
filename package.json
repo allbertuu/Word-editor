@@ -1,0 +1,25 @@
+{
+  "name": "word-editor",
+  "version": "1.0.0",
+  "description": "Um editor de texto elegante e responsivo",
+  "main": "index.html",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allbertuu/Word-editor.git"
+  },
+  "keywords": [
+    "word-editor",
+    "editor",
+    "de",
+    "texto"
+  ],
+  "author": "Alberto Albuquerque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allbertuu/Word-editor/issues"
+  },
+  "homepage": "https://github.com/allbertuu/Word-editor#readme"
+}
