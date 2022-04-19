@@ -6,7 +6,7 @@
 
 <img src="./screenshots/banner.png" alt="Imagem de vizualização do site">
 
-🚀 [Acesse o site aqui!](https://allbertuu.github.io/word-editor/) 🚀  
+🚀 [Acesse o site aqui!](https://allbertuu.github.io/Word-editor/) 🚀  
 
 ## 💬 Sobre o projeto
 > Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos em JavaScript ES6, CSS3 e o framework TailwindCSS.  
